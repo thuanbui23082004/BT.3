@@ -249,7 +249,7 @@
     width: 640px;
 }
 
-.experience__info--col:last-child * {
+.experience__info--col:last-child *:not(ul) {
     margin-left: 100px;
 }
 .experience__info--time {
